@@ -88,7 +88,7 @@ VALUES
 INSERT INTO artist 
 (artist_id, name) 
 VALUES
-	('1', 'Beyoncé '),
+	('1', 'Beyoncé'),
 	('2', 'Queen'),
 	('3', 'Elis Regina'),
 	('4', 'Baco Exu do Blues'),
